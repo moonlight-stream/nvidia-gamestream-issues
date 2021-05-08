@@ -1,2 +1,2 @@
-# nvidia-gamestream-known-issues
-Repository for tracking known GameStream issues that require a fix from Nvidia
+# Nvidia GameStream issues
+Repository for tracking GameStream issues that require a fix from Nvidia
